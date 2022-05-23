@@ -1,0 +1,8 @@
+Comanda 2
+21:02:26, 23/05/2022
+Clientul 1
+Produse comandate:
+161 Almond Cookie Cups with Sauternes-Poached Apples and Frozen Sauternes Mousse :
+Rating: 3.75
+Pret: 91.0
+Total: 91.0
